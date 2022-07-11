@@ -7,7 +7,10 @@
 #     Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2.
 #     (Please note that the palindromic number, in either base, may not include leading zeros.)
 
-def main(n):
+from typing import List, Tuple
+
+
+def main(n: int) -> Tuple[List[int], int]:
     """
     Returns a list of all numbers less than `n` which are palindromes in base-10 and base-2,
       as well as the sum of those numbers.
