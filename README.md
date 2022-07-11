@@ -1,4 +1,7 @@
-# Project Euler - Problem 36 - Double-Base Palindromes
+# Project Euler
+
+## Problem 36 - Double-Base Palindromes
+
 The decimal number, `585` = `1001001001_2` (*binary*), is palindromic in both bases.
 
 Find the sum of all numbers, less than one million, which are palindromic in base `10` and base `2`.
